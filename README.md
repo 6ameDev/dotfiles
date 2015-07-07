@@ -1,16 +1,20 @@
-= c42 dotfiles!
+# c42 dotfiles!
 
 this is new as of feb 2012. put your magic in here!
 
-== installation
+## installation
 
+```
 $ ./install
+```
 
-== zsh customization
+## zsh customization
 
+```
 * \e or \033 is "escape", used to set colour
+```
 
-== member dotfiles
+## member dotfiles
 
 https://github.com/deobald/dotfiles
 https://github.com/kitallis/dotfiles
@@ -22,3 +26,4 @@ https://github.com/jasim/dotfiles
 https://github.com/aakashd/dotfiles
 https://github.com/timothyandrew/dotfiles
 https://github.com/jithugopal/dotfiles
+https://github.com/6ameDev/dotfiles
